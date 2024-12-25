@@ -3,7 +3,7 @@ name: Merit Systems Protection Board
 description: >-
   The Merit System Principles are nine basic standards governing the management
   of the executive branch workforce. The principles are part of the Civil
-  Service Reform Act of 1978, and can be found at 5 U.S.C. § 2301(b).
+  Service Reform Act of 1978, and can be found at 5 U.S.C. ï¿½ 2301(b).
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -21,7 +21,7 @@ apis:
     description: >-
       The Merit System Principles are nine basic standards governing the
       management of the executive branch workforce. The principles are part of
-      the Civil Service Reform Act of 1978, and can be found at 5 U.S.C. §
+      the Civil Service Reform Act of 1978, and can be found at 5 U.S.C. ï¿½
       2301(b).
     humanURL: https://www.mspb.gov
     tags:
