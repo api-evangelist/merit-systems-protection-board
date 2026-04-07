@@ -10,9 +10,9 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/merit-systems-protection-board/refs/heads/main/apis.yml
 tags:
-  - Federal Government
   - Civil Service
   - Employment
+  - Federal Government
   - Government
 created: '2024-12-03'
 modified: '2026-03-16'
