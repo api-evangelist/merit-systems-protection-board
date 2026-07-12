@@ -34,3 +34,8 @@ common: []
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+common:
+- type: VulnerabilityDisclosure
+  url: security/merit-systems-protection-board-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/merit-systems-protection-board-domain-security.yml
