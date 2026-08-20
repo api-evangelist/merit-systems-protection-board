@@ -24,6 +24,11 @@ url: >-
 tags:
   - Civil Service
   - Employment
+  - Federal-Government
+  - Government
+tags_raw:
+  - Civil Service
+  - Employment
   - Federal Government
   - Government
 created: '2024-12-03'
@@ -33,6 +38,8 @@ apis:
   - aid: merit-systems-protection-board:merit-systems-protection-board
     name: Merit Systems Protection Board
     tags:
+      - Federal-Government
+    tags_raw:
       - Federal Government
     humanURL: https://www.mspb.gov
     properties:
