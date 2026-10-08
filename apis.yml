@@ -67,6 +67,12 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+- type: Plans
+  url: plans/merit-systems-protection-board-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/merit-systems-protection-board-rate-limits.yml
+- type: FinOps
+  url: finops/merit-systems-protection-board-finops.yml
 - type: VulnerabilityDisclosure
   url: security/merit-systems-protection-board-vulnerability-disclosure.yml
 - type: DomainSecurity
