@@ -1,4 +1,4 @@
-# Merit Systems Protection Board (merit-systems-protection-board)
+# Merit Systems Protection Board
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,42 +66,59 @@
 
 The Merit Systems Protection Board (MSPB) is an independent quasi-judicial agency that protects federal merit systems against partisan political and other prohibited personnel practices. It safeguards the rights of federal employees and adjudicates employee appeals.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/merit-systems-protection-board/refs/heads/main/apis.yml)
+**Areas:** Civil Service · Employment · Federal Government · Government
 
-## Scope
+## Merit Systems Protection Board on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Merit Systems Protection Board is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/merit-systems-protection-board/](https://apis.io/providers/merit-systems-protection-board/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Civil Service, Employment, Federal Government, Government
+- [Merit Systems Protection Board](https://apis.io/apis/merit-systems-protection-board/merit-systems-protection-board/) — The Merit Systems Protection Board protects federal merit systems and safeguards the rights of federal employees against prohibited personnel practices…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (2)
 
-### Merit Systems Protection Board
+Authentication, trust centre, and vulnerability disclosure.
 
-The Merit Systems Protection Board protects federal merit systems and safeguards the rights of federal employees against prohibited personnel practices under 5 U.S.C. 2301(b).
+- [Merit Systems Protection Board Domain Security](https://apis.io/security/merit-systems-protection-board/merit-systems-protection-board-domain-security/)
+- [Merit Systems Protection Board Vulnerability Disclosure](https://apis.io/security/merit-systems-protection-board/merit-systems-protection-board-vulnerability-disclosure/)
 
-**Human URL:** [https://www.mspb.gov](https://www.mspb.gov)
+#### Plans and pricing (1)
 
+Published plans, tiers and prices.
 
-#### Tags:
+- [Merit Systems Protection Board Plans Pricing](https://apis.io/plans/merit-systems-protection-board/merit-systems-protection-board-plans-pricing/)
 
- - Federal Government
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Website](https://www.mspb.gov)
+- [Merit Systems Protection Board Rate Limits](https://apis.io/rate-limits/merit-systems-protection-board/merit-systems-protection-board-rate-limits/)
 
-## Maintainers
+#### FinOps (1)
 
-**FN:** Kin Lane
+What the API costs to run, by operation.
 
-**Email:** kin@apievangelist.com
+- [Merit Systems Protection Board Finops](https://apis.io/finops/merit-systems-protection-board/merit-systems-protection-board-finops/)
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Merit Systems Protection Board: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/merit-systems-protection-board/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
